@@ -19,7 +19,7 @@
   "devDependencies": {
     "compression": "1.6.0",
     "express": "4.13.3",
-    "react-dom": "0.14.3",
+    "react-dom": "0.14.4",
     "webpack": "1.12.9",
     "webpack-dev-middleware": "1.4.0",
     "webpack-hot-middleware": "2.6.0",
