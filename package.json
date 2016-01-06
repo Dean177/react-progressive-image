@@ -14,7 +14,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "react": "0.14.3"
+    "react": "0.14.6"
   },
   "devDependencies": {
     "compression": "1.6.0",
