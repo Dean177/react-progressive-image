@@ -22,7 +22,7 @@
     "react-dom": "0.14.6",
     "webpack": "1.12.11",
     "webpack-dev-middleware": "1.5.0",
-    "webpack-hot-middleware": "2.6.0",
+    "webpack-hot-middleware": "2.6.1",
     "babel-core": "6.4.5",
     "babel-loader": "6.0.1",
     "babel-preset-es2015": "6.0.15",
